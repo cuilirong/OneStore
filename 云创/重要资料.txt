@@ -1,0 +1,19 @@
+	angular官方文档：
+https://www.angular.cn/docs
+
+
+	编码风格：
+https://www.angular.cn/guide/styleguide
+
+	阿里组件库：
+https://ant.design/docs/react/introduce-cn
+
+开源的自动化测试的项目：
+	                https://gitee.com/zhengshuheng/PatatiumWebUi
+ 
+		        https://gitee.com/seagull1985/LuckyFrameWeb
+ 
+			https://gitee.com/phoenixframework/phoenixframework
+ 
+			https://gitee.com/arch2surenpi/phoenix
+ 

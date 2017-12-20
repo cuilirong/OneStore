@@ -1,0 +1,14 @@
+GitHub基本命令使用：
+  1.git init  初始化仓库
+  2.git status  查看状态  （解决中文乱码：git config --global core.quotepath false）
+  3.git add "测试文件.txt"  上传此文件  （git add -A 上传此目录下所有文件）
+  4.git commit -m "更新的信息"   提交
+  5.git log  查看日志
+  6.git diff  查看改变
+  7.git checkout --  撤销更改
+  8.git reset --hard 版本号前7位  版本回退
+  9.git reflog 查看之前版本
+  10.git reset --hard 版本号前7位  恢复版本
+  11.git clean -xf 删除未跟踪（没有上传）文件
+  12.Git与GitHuub关联使用
+
